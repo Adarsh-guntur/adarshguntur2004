@@ -39,4 +39,4 @@ Computer Science graduate passionate about Java Full Stack Development, Data Ana
 
 🔗 GitHub: github.com/adarshguntur2004
 
-💼 LinkedIn: Add your LinkedIn profile URL here
+💼 LinkedIn: https://www.linkedin.com/in/adarsh-guntur-b1051023b/
